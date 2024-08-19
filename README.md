@@ -1320,3 +1320,6 @@ npx hardhat run scripts/getMessage.js --network swisstronik
 echo "Message retrieved."
 echo "Done"
 ```
+
+
+**Follow Me on Twitter:** https://x.com/FareaNFts
